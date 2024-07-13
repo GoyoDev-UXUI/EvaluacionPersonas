@@ -1,0 +1,4 @@
+Ibai,29
+Auron,35
+Naruto,10
+Goku,17
